@@ -1,4 +1,6 @@
+#!/usr/bin/python
 import math
+
 tot = 0
 factorials = [1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880]
 
