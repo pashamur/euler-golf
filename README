@@ -1,7 +1,12 @@
-Hi all,
+I am going to try to find short solutions in commonly used programming languages, 
+(ones that I've had at least some exposure to - C/C++/Java/Python/Perl/Ruby). If I do
+not immediately see a way to write a really short solution or am otherwise stumped by a
+problem, I might temporarily write a long solution and post it here while looking for
+ways to shorten it on the project euler forums.
 
-This is going to be a public directory where I dump small scripts that I make for
-competitive coding websites (or simply coding websites... e.g. project euler, usaco, topcoder,
-stackoverflow, and any other website that requires code. Some of this stuff maybe be useful
-(but most likely not). Feel free to take anything you'd like, or fork/add your own solutions
-if you have a clever one as well.
+The end goal is to see how many project euler problems are solvable with one-line solutions
+(in any language), and how short you can make any individual solutions.
+
+If you have any short/golf-y solutions you wrote yourself, please contribute!
+
+Pasha Muravyev
