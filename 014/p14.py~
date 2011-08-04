@@ -1,4 +1,7 @@
 #!/usr/bin/python
+
+import sys
+
 len_lookup = {}
 
 def recurse(orig, cur, seq_len):
