@@ -10,7 +10,6 @@ def main():
 			dgsum += (ord(c)-ord('0'))**5
 		if dgsum == i:
 			tot += i
-			print "Found such number:",i
 	print tot
 
 if __name__ == "__main__":
