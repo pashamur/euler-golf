@@ -12,7 +12,7 @@ def isleap(n):
 def main():
 	(year, day, i) = (1901, 2, 0)
 	while year < 2001:
-		day %= 7
+    day %= 7
 		if isleap(year):
 			for month in months_leap:
 				day += month
